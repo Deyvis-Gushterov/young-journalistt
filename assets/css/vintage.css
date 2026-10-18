@@ -211,3 +211,6 @@ footer{background:transparent!important; color:var(--ink-2)!important; border-to
   .contact-info{border-right:0; padding-right:0}
   .hero{padding:56px 0 48px}
 }
+
+/* Article photos in full color */
+.article-card img,.article-image img,.article-card-image img,.article-card-thumbnail img,.article-card:hover img{filter:none!important}
